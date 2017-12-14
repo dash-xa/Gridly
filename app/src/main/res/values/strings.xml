@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gridly</string>
+    <string name="game_lost">Game Lost</string>
+    <string name="try_again">Try again</string>
+    <string name="main_menu">Main menu</string>
+    <string name="title">Gridly.</string>
+    <string name="start_game">Start Game</string>
+    <string name="buy_game">Go Pro</string>
+    <string name="new_high_score_set">New High Score</string>
+    <string name="your_high_score">"High Score: "</string>
+    <string name="you_connected">"You connected: "</string>
+    <string name="dot"></string>
+    <string name="dots"></string>
+    <string name="saved_high_score">score</string>
+</resources>
